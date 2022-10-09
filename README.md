@@ -1,8 +1,10 @@
 ### Hi there 👋 I'm Shravan Sunder.  
 
 - 🪙 I'm currently working on ethereum/web3 development:
-  -   [eth-hooks](https://github.com/scaffold-eth/eth-hooks) web3 hooks that supercharge your development.  Here is the [npm link](https://www.npmjs.com/package/eth-hooks)
-  -   [scaffold-eth typescript](https://github.com/scaffold-eth/scaffold-eth-typescript) a starter for web3 development with react
+  -    [eth-hooks](https://scaffold-eth.github.io/eth-ui/) web3 hooks that supercharge your development.  The repo is [here]([eth-hooks](https://github.com/scaffold-eth/eth-ui));  [npm link](https://www.npmjs.com/package/eth-hooks)
+  -   [scaffold-eth typescript](https://github.com/scaffold-eth/scaffold-eth-typescript) batteries included template for web3 development with react
+-   Check out my videos
+  -  
 - 💻 Love React, typescript, C#, .NET, MS SQL Server, microservices, serverless
 - 🎓 Focusing on solidity, web3 front ends, encryption
 - 🎙 I'm a team lead with exprience leading a large software team
