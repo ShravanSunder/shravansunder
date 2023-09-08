@@ -1,8 +1,8 @@
 ### 👋🏽 I'm Shravan, these are my side hustles
 
-### Current Project
+#### Current Project
 - 🤖 In the ai mania, building a small AI Assistant
-- Build a WASM native browser compatible version of hnswlib: [hnswlib-wasm](https://github.com/ShravanSunder/hnswlib-wasm)
+- 🕸️ Build a WASM native browser compatible version of hnswlib: [hnswlib-wasm](https://github.com/ShravanSunder/hnswlib-wasm)
 
 
 #### Prior Projects
