@@ -1,6 +1,11 @@
 ### 👋🏽 I'm Shravan, these are my side hustles
 
-#### Current Projects
+### Current Project
+- 🤖 In the ai mania, building a small AI Assistant
+- Build a WASM native browser compatible version of hnswlib: [hnswlib-wasm](https://github.com/ShravanSunder/hnswlib-wasm)
+
+
+#### Prior Projects
 - 🌱 I'm thinking and working on a decentralized Patreon with lens
   - Won a prize in the lens hackathon in 2022:  https://twitter.com/LensProtocol/status/1509220705061199884
 - 🪙 I'm currently working on ethereum/web3 in BuidlGuidl
