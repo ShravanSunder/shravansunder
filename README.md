@@ -32,9 +32,8 @@
 -  I created [Evergreen Notes](https://www.notion.so/shravansunder/Evergreen-Notes-For-Notion-e35e6ed4dd5a45b19bf2de2bb86b1a7e) for Notion.  
 
 #### Interests
-- 💻 Love React, typescript, C#, .NET, MS SQL Server, microservices, serverless
-- 🎓 Focusing on solidity, web3 front ends, encryption
-- 🎙 I'm a team lead with exprience leading a large software team
-- 💭 I’ve worked the AWS stack (lambda, dynamoDB, CDK, SQS, SNS...)
+- 💻 Focusing on React, typescript, nodejs, serverless, orchestration systems, cloudflare, aws
+- 🎓 Focusing on ai, web3 front ends, encryption
+- 🎙 Currently a staff engineer, was team lead with exprience leading a large software team
 - 🕺 Fun fact: As a hobby, i used to dance and dj around the world for Brazilian Zouk
 
