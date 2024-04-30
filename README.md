@@ -1,5 +1,8 @@
 ## 👋🏽 I'm Shravan, these are my side hustles
 
+### 🤖 AI Agents [2023-current]
+- Working on an AI Agent
+
 ### 🤖 Creating AI-Enhanced Libraries [2023-current]
 - 🕸️ **WASM Native Libraries**: Pioneered a WASM native browser-compatible version of hnswlib that makes it easier for browser-based applications to implement fast and accurate vector indexing.
   - [hnswlib-wasm GitHub Repo](https://github.com/ShravanSunder/hnswlib-wasm)
