@@ -1,4 +1,4 @@
-## 👋🏽 I'm Shravan, these are my side hustles
+## 👨🏽‍💻 I'm Shravan, these are my side hustles
 
 ### AI Agents [2023-current]
 - 🦾 Working on an AI Agent with [askluna](https://github.com/askluna)
