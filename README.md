@@ -29,14 +29,9 @@
 ### 🚀 Ongoing & Future Endeavors
 - 🤖 **AI Mania**: Building a small AI Assistant aimed at making AI accessible and user-friendly.
 
-#### 🗓️ Past Endevors
-- 🌱 **Decentralized Patreon**: Actively brainstorming and working on creating a decentralized Patreon with Lens.
-- 🪙 Opensource React libraries to interact with ethereum
--  I created [Evergreen Notes](https://www.notion.so/shravansunder/Evergreen-Notes-For-Notion-e35e6ed4dd5a45b19bf2de2bb86b1a7e) for Notion.  
-
 #### Interests
-- 💻 Focusing on React, typescript, nodejs, serverless, orchestration systems, cloudflare, aws
-- 🎓 Focusing on ai, web3 front ends, encryption
+- 💻 Focusing on React, typescript, python nodejs, serverless, orchestration systems, cloudflare, aws, modal.com
+- 🎓 Focusing on LLM, ai tooling, ai agents, front ends, encryption
 - 🎙 Currently a staff engineer, was team lead with exprience leading a large software team
 - 🕺 Fun fact: As a hobby, i used to dance and dj around the world for Brazilian Zouk
 
