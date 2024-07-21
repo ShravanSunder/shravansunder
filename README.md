@@ -4,7 +4,7 @@
 - 🦾 Working on an AI Agent with [askluna](https://github.com/askluna)
 
 ### Creating AI tooling libraries [2023-current]
-- 🕸️ **WASM Native Libraries**: Pioneered a WASM native browser-compatible version of hnswlib that makes it easier for browser-based applications to implement fast and accurate vector indexing.
+- 🕸️ **WASM Native Libraries**: Created a WASM native browser-compatible version of hnswlib that makes it easier for browser-based applications to implement fast and accurate vector indexing.
   - [hnswlib-wasm GitHub Repo](https://github.com/ShravanSunder/hnswlib-wasm)
 
 ### Contributing to OSS Ethereum Projects [2021-2022]
