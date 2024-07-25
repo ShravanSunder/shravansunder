@@ -6,6 +6,10 @@
 ### Creating AI tooling libraries [2023-current]
 - 🕸️ **WASM Native Libraries**: Created a WASM native browser-compatible version of hnswlib that makes it easier for browser-based applications to implement fast and accurate vector indexing.
   - [hnswlib-wasm GitHub Repo](https://github.com/ShravanSunder/hnswlib-wasm)
+- Rivet Utilities Plugin [2024]
+  - A plugin for rivet at adds nodes to enable better AI and LLM pipelines in rivet. [Github Repo](https://github.com/ShravanSunder/rivet-utilities-plugin)
+- Opentelemetry HTTP OLTP logs exporter [2024]
+  - A module that provides otel log exporter and helpers for HTTP OTLP environments like cloudflare workers.  [Github Repo](https://github.com/askluna/exporter-logs-otlp-http-workers)
 
 ### Contributing to OSS Ethereum Projects [2021-2022]
 - 💻 **Main Contributor**: Key contributions to eth-hooks, eth-components, and scaffold-eth-typescript.
