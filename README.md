@@ -1,4 +1,8 @@
-## 👨🏽‍💻 I'm Shravan, these are my independant projects
+## 👨🏽‍💻 I'm Shravan
+
+[Linkedin Profile](https://www.linkedin.com/in/shravansunder/)
+
+## These are my independant projects
 
 ### AI Agents [2023-current]
 - 🦾 Working on an AI Agent with [askluna](https://github.com/askluna)
