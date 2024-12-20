@@ -2,6 +2,8 @@
 
 [Linkedin Profile](https://www.linkedin.com/in/shravansunder/)
 
+🐺 Currently working at [QA Wolf](https://www.qawolf.com/ai) as an Staff AI Engineer
+
 ## These are my independent projects
 
 ### AI Agents [2023-current]
