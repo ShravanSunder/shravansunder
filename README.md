@@ -21,8 +21,8 @@
 
 ### Contributing to OSS Ethereum Projects [2021-2022]
 - 💻 **Main Contributor**: Key contributions to eth-hooks, eth-components, and scaffold-eth-typescript.
-  - [eth-hooks GitHub Repo](https://github.com/scaffold-eth/eth-hooks)
-  - [scaffold-eth-typescript GitHub Repo](https://github.com/scaffold-eth/scaffold-eth-typescript)
+  - [eth-hooks library GitHub Repo](https://github.com/scaffold-eth/eth-ui/tree/next/packages/eth-hooks)
+  - [eth-hooks documentation](https://scaffold-eth.github.io/eth-ui/) 
 - 📈 **Downloads**: Eth-hooks had a consistent download range of 1.5k-6k per week from Sept 2021 to Nov 2022.
 - 🏆 **Lens Hackathon 2022**: Bagged a prize for outstanding contributions. 
   - [Hackathon win announcement](https://twitter.com/LensProtocol/status/1509220705061199884)
