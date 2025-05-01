@@ -2,9 +2,11 @@
 
 [My Linkedin Profile](https://www.linkedin.com/in/shravansunder/)
 
-🐺 Currently working at [QA Wolf](https://www.qawolf.com/ai) as an Staff AI Engineer
+Started working at [Relay Finance](https://relayfi.com/) as a Staff AI Engineer
 
-📇 Previously was a Staff Software Engineer at [Xero](https://www.xero.com/ca/)
+📇 Previously was a:
+ - Staff AI Engineer at [QA Wolf](https://www.qawolf.com/ai)
+ - Staff Software Engineer at [Xero](https://www.xero.com/ca/)
 
 ## These are my independent projects
 
