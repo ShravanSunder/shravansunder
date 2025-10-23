@@ -7,7 +7,8 @@ Started working at [Relay Finance](https://relayfi.com/) as a Staff AI Engineer
 📇 Previously was a:
  - Staff AI Engineer at [QA Wolf](https://www.qawolf.com/ai)
  - Staff Software Engineer at [Xero](https://www.xero.com/ca/)
- - Software Engineer for 18+ years
+
+I've Software Engineer w/ SASS & Robotics for 18+ years
 
 ## These are my independent projects
 
