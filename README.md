@@ -2,7 +2,7 @@
 
 [My Linkedin Profile](https://www.linkedin.com/in/shravansunder/)
 
-Currently at [Relay Finance](https://relayfi.com/) as a Staff AI Engineer
+Currently at [Relay Finance](https://relayfi.com/) as a Staff AI Engineer (Applied AI)
 
 📇 Previously was a:
  - Staff AI Engineer at [QA Wolf](https://www.qawolf.com/ai)
