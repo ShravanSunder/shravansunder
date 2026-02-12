@@ -12,6 +12,7 @@ Currently at [Relay Finance](https://relayfi.com/) as a Staff AI Engineer (Appli
 ## These are my independent projects
 
 ### AI Agents [2023-current]
+- 🐳 Working on agent studio a workspace and studio for modern development with cli coding agents https://github.com/ShravanSunder/agentstudio
 - 🦾 Working on an AI Agent with [askluna](https://github.com/askluna)
 
 ### Creating AI tooling libraries [2023-current]
